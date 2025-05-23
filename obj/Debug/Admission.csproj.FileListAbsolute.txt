@@ -1,0 +1,8 @@
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\bin\Debug\Admission.exe.config
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\bin\Debug\Admission.exe
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\bin\Debug\Admission.pdb
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\obj\Debug\Admission.csproj.AssemblyReference.cache
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\obj\Debug\Admission.exe
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\obj\Debug\Admission.pdb
+C:\Users\Milani\OneDrive\Desktop\School\ITCPA2-B22\Practical work\Admission\obj\Debug\Admission.exe.config
